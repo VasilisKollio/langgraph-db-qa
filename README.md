@@ -4,7 +4,7 @@ A Q&A system over a structured database (SQLite) using LangGraph and LLMs to ena
 ## Workflow Graph
 Below is the visual representation of the LangGraph SQL agent workflow:
 
-<img src="korax-files-db/workflow_graph.png" alt="Workflow Graph" width="150"/>
+<img src="files-db/workflow_graph.png" alt="Workflow Graph" width="150"/>
 
 ### Instructions
 1. Create a python virtual environment
