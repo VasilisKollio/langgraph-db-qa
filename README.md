@@ -37,7 +37,7 @@ Two distinct SQLite databases were used to evaluate the capabilities of the LLM-
 ### LLM models used for testing (Ollama)
 - `codegemma:latest`
 - `codellama:latest`
-- ` `
+- `deepseek-coder:6.7b`
 
 ### Questions asked & Results
  1. Give me the license plates of the cars that where between the hours of 16:00 and 16:15 and their exact time that they were spotted.
